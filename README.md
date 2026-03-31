@@ -2,7 +2,7 @@
 
 **`Estudante de Data Science`**
 
-Me chamo Davi Baruch, tenho 18 anos sou de São Paulo, terminei o ensino médio em 2024 e estou fazendo cursos online. Conclui cursos na Asimov Academy e na Data Science Academy. Estou fazendo meu primeiro ChatBot na Asimov Academy.
+Me chamo Davi Baruch, tenho 19 anos sou de São Paulo, terminei o ensino médio em 2024 e estou fazendo engenharia da computação na FIAP. Conclui cursos na Asimov Academy e na Data Science Academy. Fiz chatbots, cusos para data science em instutuições online: Data Science Academy (DSA) e Asimov.
 
 ***
 ### Linguagens e Tecnologias
